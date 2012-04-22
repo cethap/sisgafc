@@ -1,0 +1,12 @@
+[15-Mar-2012 18:51:56] PHP Notice:  Undefined index:  medida in /home/unoraya/public_html/proyectosis/sisgafc/dao/dblista_orden.php on line 25
+[15-Mar-2012 18:51:56] PHP Notice:  Undefined index:  valor_unitario in /home/unoraya/public_html/proyectosis/sisgafc/dao/dblista_orden.php on line 27
+[15-Mar-2012 18:51:56] PHP Notice:  Undefined index:  descuento in /home/unoraya/public_html/proyectosis/sisgafc/dao/dblista_orden.php on line 28
+[15-Mar-2012 19:16:53] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/departlogic.php on line 14
+[15-Mar-2012 19:17:25] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/departlogic.php on line 14
+[15-Mar-2012 19:17:34] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicapersonal.php on line 12
+[15-Mar-2012 19:19:26] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17
+[15-Mar-2012 19:20:43] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17
+[15-Mar-2012 19:20:46] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17
+[15-Mar-2012 19:20:49] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17
+[15-Mar-2012 19:20:49] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17
+[15-Mar-2012 19:21:00] PHP Notice:  Undefined index:  vtn in /home/unoraya/public_html/proyectosis/sisgafc/bislogica/logicaproovedor.php on line 17

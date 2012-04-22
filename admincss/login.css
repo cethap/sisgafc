@@ -1,0 +1,105 @@
+root { 
+    display: block;
+}
+body{
+    margin: 0;
+    padding: 0;
+	background:#f4f4f4 url(../images/380_tile_Wood.gif) repeat top left;
+}
+a{
+	color:#fff;
+	text-decoration:none;
+	font-size:12px;
+	font-weight:bold;
+}
+a:hover{
+	text-decoration:underline;
+}
+#LoginWrapper{
+    width: 450px;
+    margin:-86px auto;
+	padding:10px;
+	background-image:url(../images/loginBg.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+	font-family:"Trebuchet MS";
+}
+#loginTbl{
+ color:#fff;
+}
+#loginTbl th{
+ color:#fff;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-size:18px;
+}
+.inputFiled{
+	height:35px;
+	width:200px;
+	border:none;
+	background:none;
+	background-image:url(../images/input.png);
+	background-repeat:no-repeat;
+	color:#fff;
+	font-size:16px;
+	font-family:"Trebuchet MS";
+	padding-left:5px;
+	padding-top:2px;
+}
+.username{
+	position:absolute;
+	margin-left:150px;
+	margin-top:-11px;
+}
+.password{
+	position:absolute;
+	margin-left:150px;
+	margin-top:-11px;
+}
+.loginBtn{
+	border: none;
+	background:none;
+	background-image:url(../images/loginBtn.png);
+	background-position:top left;
+	background-repeat:no-repeat;
+	width:98px;
+	height:50px;
+	color:#fff;
+	font-family:"Trebuchet MS";
+	font-size:18px;
+	margin-left:100px;
+	font-weight:bold;
+	
+}
+.loginBtn:hover{
+	background-image:url(../images/loginBtnhover.png);
+	color:#333333;
+}
+.loadingAnim{
+	width:50px;
+	height:10px;
+	margin:73px auto;
+}
+.loadingAnim img{
+	display:none;
+}
+#message{
+	font-weight:bold;
+	color:#FF0D0D;
+	width:0px;
+	height:0px;
+	margin-top:-156px;
+	margin-left:50%;
+	padding:3px;
+	text-align:center;
+	position:absolute;
+	display:none;
+	background-image:url(../images/alertbg.png);
+	background-repeat:repeat-x;
+	background-position:top left;
+}
+#copyRight{
+	margin:82px auto 0;
+	font-family:trebuchet MS;
+	color:#232323;
+	font-size:13px;
+}

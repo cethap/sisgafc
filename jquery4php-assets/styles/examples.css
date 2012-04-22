@@ -1,0 +1,42 @@
+.selected  { color:blue; }
+.highlight { background:yellow; }
+
+.block{width: 60px; height: 60px;}
+
+.yellow_block{width: 60px; height: 60px; background-color:yellow;}
+.blue_block{width: 60px; height: 60px; background-color:blue;}
+.red_block{width: 60px; height: 60px; background-color:red;}
+.white_block{width: 60px; height: 60px; background-color:green;}
+
+.even{background-color:#DDE5EB;}
+.odd {background-color:#E8ECF1;}
+
+#blockWrapUnwrap div { border: 2px solid blue; }
+#blockWrapUnwrap div p { background:yellow; margin:4px; }
+
+#blockToWrap div { border: 2px solid blue; }
+#blockToWrap div p { background:yellow; margin:4px; }
+
+#blockToWrapAll div { border: 2px solid blue; }
+#blockToWrapAll div p { background:yellow; margin:4px; }
+
+#blockToWrapInner div { border: 2px solid blue; }
+#blockToWrapInner div p { background:yellow; margin:4px; }
+
+.border-example { border: 2px solid red; }
+.background-example { background:yellow; }
+
+.border_block{width:60px; height:60px; margin:10px; float:left;border:2px solid red}
+
+.block_animate
+{
+  background-color:#bca;
+  width:200px;
+  height:1.1em;
+  text-align:center;
+  border:2px solid green;
+  margin:3px;
+  font-size:14px;
+}
+
+

@@ -1,0 +1,22 @@
+[29-Nov-2011 23:08:37] PHP Notice:  Undefined variable: rs in /home/unoraya/public_html/sisgafc/pdf/conexion.php on line 16
+[29-Nov-2011 23:08:37] PHP Warning:  Invalid argument supplied for foreach() in /home/unoraya/public_html/sisgafc/pdf/index.php on line 28
+[29-Nov-2011 23:11:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'foo' in /home/unoraya/public_html/sisgafc/pdf/include/cellmap.cls.php:284
+Stack trace:
+#0 /home/unoraya/public_html/sisgafc/pdf/include/table_row_frame_reflower.cls.php(80): Cellmap->get_frame_height(Object(Table_Row_Frame_Decorator))
+#1 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Table_Row_Frame_Reflower->reflow()
+#2 /home/unoraya/public_html/sisgafc/pdf/include/table_frame_reflower.cls.php(468): Frame_Decorator->reflow()
+#3 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Table_Frame_Reflower->reflow()
+#4 /home/unoraya/public_html/sisgafc/pdf/include/block_frame_reflower.cls.php(408): Frame_Decorator->reflow()
+#5 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Block_Frame_Reflower->reflow()
+#6 /home/unoraya/public_html/sisgafc/pdf/include/page_frame_reflower.cls.php(78): Frame_Decorator->reflow()
+#7 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Pag in /home/unoraya/public_html/sisgafc/pdf/include/cellmap.cls.php on line 284
+[29-Nov-2011 23:11:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'foo' in /home/unoraya/public_html/sisgafc/pdf/include/cellmap.cls.php:284
+Stack trace:
+#0 /home/unoraya/public_html/sisgafc/pdf/include/table_row_frame_reflower.cls.php(80): Cellmap->get_frame_height(Object(Table_Row_Frame_Decorator))
+#1 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Table_Row_Frame_Reflower->reflow()
+#2 /home/unoraya/public_html/sisgafc/pdf/include/table_frame_reflower.cls.php(468): Frame_Decorator->reflow()
+#3 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Table_Frame_Reflower->reflow()
+#4 /home/unoraya/public_html/sisgafc/pdf/include/block_frame_reflower.cls.php(408): Frame_Decorator->reflow()
+#5 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Block_Frame_Reflower->reflow()
+#6 /home/unoraya/public_html/sisgafc/pdf/include/page_frame_reflower.cls.php(78): Frame_Decorator->reflow()
+#7 /home/unoraya/public_html/sisgafc/pdf/include/frame_decorator.cls.php(387): Pag in /home/unoraya/public_html/sisgafc/pdf/include/cellmap.cls.php on line 284
